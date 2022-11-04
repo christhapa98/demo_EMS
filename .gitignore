@@ -1,0 +1,3 @@
+node_modules/
+frontend/src/config/config_dev.js
+backend/config/dev-configs.js
